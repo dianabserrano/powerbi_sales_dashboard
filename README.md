@@ -7,6 +7,9 @@ This project presents an interactive Power BI dashboard developed to analyze sal
 The analysis focuses on Year-to-Date (YTD) business performance, product analysis, customer segmentation, shipping behavior, and regional sales trends.
 
 
+## Dashboard Preview
+<p align="center"> <img src="dashboard2.jpg" width="1000"> </p>
+
 ## Objectives
 
 - Monitor overall sales performance using key metrics.
@@ -131,6 +134,3 @@ DIVIDE(
     [YTD Sales]
 )
 ```
-
-## Dashboard Preview
-<p align="center"> <img src="dashboard2.jpg" width="1000"> </p>
