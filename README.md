@@ -133,4 +133,4 @@ DIVIDE(
 ```
 
 ## Dashboard Preview
-<p align="center"> <img src="images/dashboard2.png" width="1000"> </p>
+<p align="center"> <img src="images/dashboard2.jpg" width="1000"> </p>
